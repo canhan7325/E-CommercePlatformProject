@@ -1,2 +1,2 @@
-# E-Commerce-Platform-Project
+# E-Commerce Platform Project
 Project coding by SpringMVC
